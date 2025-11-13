@@ -793,9 +793,10 @@ a.article-title:hover {
 .article-nav-caption {
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #eef1f8;
+  color: #ff2828;
   line-height: 1em;
   font-weight: bold;
+  font-size: 1.1em;
 }
 #article-nav-newer .article-nav-caption {
   margin-right: -2px;
