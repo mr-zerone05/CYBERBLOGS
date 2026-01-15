@@ -106,3 +106,4 @@ deploy:
   repo: https://github.com/mr-zerone05/CYBERBLOGS.git
   branch: gh-pages
   message: "Deploy with Hexo"
+
